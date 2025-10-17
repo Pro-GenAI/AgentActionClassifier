@@ -1,0 +1,15 @@
+# Development dependencies
+# Install with: pip install -r requirements-dev.txt
+
+# Code formatting and linting
+black
+isort
+flake8
+pylint
+
+# Type checking
+mypy
+
+# Testing
+pytest
+pytest-cov

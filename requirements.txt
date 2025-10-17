@@ -1,0 +1,16 @@
+scikit-learn
+joblib
+numpy
+
+# Core ML and embeddings
+torch
+sentence-transformers
+
+# Utilities
+numpy
+scikit-learn
+joblib
+
+# Integrations with LLMs
+openai
+python-dotenv
